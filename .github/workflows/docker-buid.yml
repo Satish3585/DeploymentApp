@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: satish/testforactions:latest
+        tags: satish3585yadav@gmail.com/testforactions:latest
